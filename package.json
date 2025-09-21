@@ -1,7 +1,7 @@
 {
   "name": "Anita_V5",
   "version": "5.0.0",
-  "description": "Queen Anita V5 Is a Simple WA Bot Made by David Cyril using  Baileys-X",
+  "description": "Queen Anita V5 Is a Simple Whatsapp Bot Made by David Cyril using  Baileys-X",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -14,7 +14,7 @@
   "author": "David Cyril",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^6.7.9",
+    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@^7.0.0-rc.2",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
@@ -64,6 +64,7 @@
     "perf_hooks": "latest",
     "performance-now": "*",
     "pino": "^8.17.2",
+    "playwright": "^1.54.2",
     "pretty-ms": "^7.0.1",
     "qrcode": "^1.5.3",
     "qrcode-reader": "^1.0.4",
