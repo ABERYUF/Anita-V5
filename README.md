@@ -1,7 +1,7 @@
 # Anita-V5
    <a><img src='https://files.catbox.moe/oj6rjk.jpg'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>😒 A simple WhatsApp User Bot Coded By BMEDIA 😒</u>
 </p>
 <p align="center">       
 <p align="center">
